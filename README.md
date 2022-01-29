@@ -28,7 +28,7 @@ Les multiplier et afficher le résultat dans une boîte de dialogue.
 
 ## Exercice 6 :
 
-Dans un fichier séparé, créer une fonction permettant d’afficher le reste de la division de deux nombres. L’appeler depuis le fichier html.
+Dans un fichier séparé, créer une fonction permettant d’afficher le résultat de la division de deux nombres. L’appeler depuis le fichier html.
 
 ## Exercice 7 :
 
